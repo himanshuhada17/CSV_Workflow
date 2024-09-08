@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages/index.tsx -> @/components/CsvUploader\":{\"id\":\"pages/index.tsx -> @/components/CsvUploader\",\"files\":[\"static/chunks/src_components_CsvUploader_tsx.js\"]},\"pages/index.tsx -> @/components/FlowComponent\":{\"id\":\"pages/index.tsx -> @/components/FlowComponent\",\"files\":[\"static/chunks/src_components_FlowComponent_tsx.js\"]}}"
